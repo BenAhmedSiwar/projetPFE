@@ -17,6 +17,8 @@ public class DemandeSortie {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer id;
 
+    private Date dateDemande;
+
     private Date datePrevue;
 
     private Date dateEffctive;

@@ -12,8 +12,6 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.pfe.projet.entité.Demande;
-
 import com.pfe.projet.service.DemandeService;
 
 @RestController

@@ -1,6 +1,5 @@
 package com.pfe.projet.service;
 import java.util.List;
-import com.pfe.projet.entité.Demande;
 
 
 public interface DemandeService {
