@@ -14,7 +14,7 @@ import lombok.Data;
 public class Reponse {
 @Id
 @GeneratedValue(strategy = GenerationType.IDENTITY)
-private Date date_rep;
+private Date dateRep;
 private String type_rep;
 private String remarque;
 private String contenu;

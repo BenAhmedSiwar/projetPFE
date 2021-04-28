@@ -2,7 +2,6 @@ package com.pfe.projet.serviceImpl;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import com.pfe.projet.entité.Demande;
 import com.pfe.projet.repositories.DemandeRepository;
 import com.pfe.projet.service.DemandeService;
 
